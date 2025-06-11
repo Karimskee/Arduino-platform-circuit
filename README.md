@@ -2,7 +2,7 @@
 
 <h4 align="center"> Project Idea 💡 </h4>
 
-<p align="center">
+<p>
     A platform circuit for arduino nano usage (i.e. Robotics, Environment sensoring, etc...). <br>
     The main functionality of the circuit is to allow AC power (via power outlets 220v) to safely go throw and operate the arduino. <br>
     A built-in example usage of the circuit is a simulation of logic gates using the IR Remote, button 1 and 2 are for inputs, the rest of the numbers correspond to a different logic gate, the inputs and outputs are visualized using LEDs. <br>
