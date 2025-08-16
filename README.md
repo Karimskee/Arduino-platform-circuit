@@ -1,4 +1,4 @@
-<h1 align="center"> Project Information 📝 </h1>
+<h1 align="center"> Project Information 📝 WIP </h1>
 
 <h4 align="center"> Project Idea 💡 </h4>
 
